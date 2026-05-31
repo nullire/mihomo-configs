@@ -1,6 +1,6 @@
 payload:
   # Unreal Engine games
-#  - PROCESS-NAME-REGEX,(?i).*Win64-Shipping.*
+  - PROCESS-NAME-REGEX,(?i).*Win64-Shipping.*
 
   # Aimbeast
   - PROCESS-NAME-REGEX,Aimbeast.* 
@@ -32,8 +32,8 @@ payload:
   - PROCESS-NAME,PEAK.exe
 
   # PUBG (PlayerUnknown's Battlegrounds)
-#  - PROCESS-NAME,ExecPubg.exe # Launcher
-#  - PROCESS-NAME-REGEX,TslGame.* # Game
+  - PROCESS-NAME,ExecPubg.exe # Launcher
+  - PROCESS-NAME-REGEX,TslGame.* # Game
 
   # Minecraft
   - PROCESS-NAME,javaw.exe # Minecraft (Java Edition)
@@ -92,8 +92,8 @@ payload:
   - PROCESS-NAME,start_protected_game.exe # Apex Easy, THE FINALS  Anti-Cheat
   - PROCESS-NAME,BattleBitEAC.exe # BattleBit EAC
   - PROCESS-NAME,EasyAntiCheat.exe # Easy Anti-Cheat
-#  - PROCESS-NAME,TslGame_BE.exe # PUBG BattleEye
-#  - PROCESS-NAME,TslGame_ZK.exe # PUBG Anti-Cheat module
+  - PROCESS-NAME,TslGame_BE.exe # PUBG BattleEye
+  - PROCESS-NAME,TslGame_ZK.exe # PUBG Anti-Cheat module
   - PROCESS-NAME-REGEX,(?i).*Vanguard.* # Valorant Vanguard Anti-Cheat
   - PROCESS-NAME-REGEX,(?i).*vanguard.* # Vanguard Anti-Cheat (Valorant, League of Legends)
   - PROCESS-NAME,vgc.exe  # Vanguard Anti-Cheat (Valorant, League of Legends)

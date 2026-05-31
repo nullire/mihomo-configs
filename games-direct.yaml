@@ -8,6 +8,14 @@ payload:
   # Among Us
   - PROCESS-NAME,Among Us.exe
 
+  # Arknights: Endfield
+  - DOMAIN-SUFFIX,gryphline.com
+  - DOMAIN,gryphline.helpshift.com
+  - DOMAIN,launcher.hg-cdn.com
+  - PROCESS-NAME,Endfield.exe
+  - PROCESS-NAME,PlatformProcess.exe
+  - PROCESS-NAME,Games.exe
+
   # Apex Legends
   - PROCESS-NAME,ApexLauncher.exe # Launcher
   - PROCESS-NAME,r5apex_dx12.exe # Apex Legends (DX12)

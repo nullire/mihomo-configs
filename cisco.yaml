@@ -1,0 +1,10 @@
+payload:
+  - PROCESS-NAME,csc_ui.exe
+  - PROCESS-NAME,vpnagent.exe
+  - PROCESS-NAME,vpnui.exe
+  - PROCESS-NAME,anyconnect.exe
+  - PROCESS-NAME,ciscod.exe
+  - PROCESS-NAME,vpndownloader.exe
+  - PROCESS-NAME,Secure Client.exe
+  - PROCESS-NAME,acvpnagent.exe
+  - PROCESS-NAME,vpnagentd.exe
